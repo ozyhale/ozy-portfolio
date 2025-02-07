@@ -6,8 +6,8 @@ import Projects from "@/components/Projects"
 // import Contact from "@/components/Contact"
 
 export const metadata: Metadata = {
-  title: "John Doe | Web Developer",
-  description: "Portfolio of John Doe, a passionate web developer specializing in React and Next.js",
+  title: "Ozy Hale Manipis | Web Developer",
+  description: "Portfolio of Ozy Hale manipis, a passionate web developer specializing in PHP",
 }
 
 export default function Home() {

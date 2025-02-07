@@ -6,10 +6,12 @@ import { motion } from "framer-motion"
 const skills = [
   { name: "PHP", level: 90 },
   { name: "HTML", level: 90 },
-  { name: "CSS", level: 80 },
+  { name: "CSS", level: 85 },
   { name: "VTiger CRM", level: 85 },
-  { name: "MySQL", level: 85 },
+  { name: "MySQL", level: 80 },
   { name: "JavaScript", level: 85 },
+  { name: "Adaptability", level: 95 },
+  { name: "Problem-solving", level: 90 },
 ]
 
 export default function Skills() {
@@ -39,9 +41,10 @@ export default function Skills() {
                 />
               </motion.div>
               {hoveredSkill === skill.name && (
-                <motion.p className="text-sm mt-2 text-gray-400" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                  {skill.name} is one of my core skills. I&apos;ve used it extensively in various projects.
-                </motion.p>
+                <></>
+                // <motion.p className="text-sm mt-2 text-gray-400" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+                //   {skill.name} is one of my core skills. I&apos;ve used it extensively in various projects.
+                // </motion.p>
               )}
             </div>
           ))}

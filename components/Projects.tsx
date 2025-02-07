@@ -6,22 +6,40 @@ import { motion } from "framer-motion"
 
 const projects = [
   {
-    title: "Simple Link In Bio",
+    title: "This Portfolio (2025)",
+    description: "This portfolio is built using Next.js, Tailwind CSS, and TypeScript. It showcases my skills, projects, and contact information.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://ozy-portfolio.vercel.app/",
+  },
+  {
+    title: "Simple Link In Bio (2023)",
     description: "An application inspired by Linktree that consolidates all the social media links of a person or group into a single URL.",
     image: "/placeholder.svg?height=200&width=300",
     link: "https://linkinbio-app-ni-ozy.vercel.app/",
   },
   {
-    title: "Work Log System (2015)",
+    title: "Work Log System (2019)",
     description: "A personal one-liner diary that logs daily work activities for historical reference and productivity tracking.",
     image: "/placeholder.svg?height=200&width=300",
     link: "https://github.com/ozyhale/ozylogs",
   },
   {
-    title: "Mobile Teacher (2015)",
+    title: "Mobile Teacher (2014)",
     description: "Composed both Android and Web applications The Web application allows teachers to enroll students to a subject and manages learning resources such as lecture materials and quizzes. It also allows creation and publication of lecture slides.",
     image: "/public/mobile-teacher.png",
     link: "https://github.com/ozyhale/mobile-teacher",
+  },
+  {
+    title: "Davao City Brgy Directory (2013)",
+    description: "A portal of websites from different barangays of the Davao City, Philippines using PHP with Codeigniter.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://github.com/ozyhale/davao-city-brgy-directory",
+  },
+  {
+    title: "MVC Project (2012)",
+    description: "An attempt to create a simple MVC framework using PHP.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://github.com/ozyhale/mvc-project",
   },
 ]
 
