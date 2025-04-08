@@ -6,6 +6,12 @@ import { motion } from "framer-motion"
 
 const projects = [
   {
+    title: "Ocean Ridge Property - New Website (2025)",
+    description: "A website for a property management company that provides information about their services, properties, and contact details.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://oceanridgeproperty.com.au/",
+  },
+  {
     title: "This Portfolio (2025)",
     description: "This portfolio is built using Next.js, Tailwind CSS, and TypeScript. It showcases my skills, projects, and contact information.",
     image: "/placeholder.svg?height=200&width=300",
