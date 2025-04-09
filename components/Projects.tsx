@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 const projects = [
   {
     title: "Ocean Ridge Property - New Website (2025)",
-    description: "A website for a property management company that provides information about their services, properties, and contact details.",
+    description: "A WordPress Website for a property management company that provides information about their services, properties, and contact details.",
     image: "/placeholder.svg?height=200&width=300",
     link: "https://oceanridgeproperty.com.au/",
   },
@@ -18,8 +18,26 @@ const projects = [
     link: "https://ozy-portfolio.vercel.app/",
   },
   {
+    title: "rSchoolToday Website (2025)",
+    description: "The main website of rschooltoday, implemented using WordPress with Elementor. It serves as a platform for the company to showcase its services and products.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://rschooltoday.com/",
+  },
+  {
+    title: "Facilities Scheduler (2014 - 2025)",
+    description: "A PHP Web Application for scheduling and managing facilities, including booking and availability tracking.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://fs-cherrycreek.rschooltoday.com/calendar/new/index/viewtype/1",
+  },
+  {
+    title: "Activity Registration (2024)",
+    description: "A Drupal Web Application for managing activity registrations, including user authentication, registration forms, and data management.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://cherrycreek-ar.rschooltoday.com/",
+  },
+  {
     title: "Simple Link In Bio (2023)",
-    description: "An application inspired by Linktree that consolidates all the social media links of a person or group into a single URL.",
+    description: "An application inspired by Linktree that consolidates all the social media links of a person or group into a single URL. You can logged in using superadmin@email.com / password",
     image: "/placeholder.svg?height=200&width=300",
     link: "https://linkinbio-app-ni-ozy.vercel.app/",
   },
