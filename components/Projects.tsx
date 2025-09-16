@@ -6,8 +6,20 @@ import { motion } from "framer-motion"
 
 const projects = [
   {
-    title: "Ocean Ridge Property - New Website (2025)",
-    description: "A WordPress Website for a property management company that provides information about their services, properties, and contact details.",
+    title: "4Bite Budget (2025)",
+    description: "A Web Application built inside WordPress using PHP, HTML, CSS with Tailwind, and JavaScript. It allows users to create and manage their budgets.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://4bitebudget.com/",
+  },
+  {
+    title: "Motsai Website (2025)",
+    description: "A WordPress Website for a company that provides information about their services, products, and contact details. It was built using WordPress with Divi Theme Builder.",
+    image: "/placeholder.svg?height=200&width=300",
+    link: "https://motsai.com/",
+  },
+  {
+    title: "Ocean Ridge Property (2025)",
+    description: "A WordPress Website for a property management company that provides information about their services, properties, and contact details. It was built using WordPress with Gutenberg.",
     image: "/placeholder.svg?height=200&width=300",
     link: "https://oceanridgeproperty.com.au/",
   },
