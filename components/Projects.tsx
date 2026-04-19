@@ -15,7 +15,7 @@ const projects = [
     title: "Motsai Website (2025)",
     description: "A WordPress Website for a company that provides information about their services, products, and contact details. It was built using WordPress with Divi Theme Builder.",
     image: "/placeholder.svg?height=200&width=300",
-    link: "https://motsai.com/",
+    link: "https://web.archive.org/web/20241218014055/https://motsai.com/",
   },
   {
     title: "Ocean Ridge Property (2025)",
@@ -33,7 +33,7 @@ const projects = [
     title: "rSchoolToday Website (2025)",
     description: "The main website of rschooltoday, implemented using WordPress with Elementor. It serves as a platform for the company to showcase its services and products.",
     image: "/placeholder.svg?height=200&width=300",
-    link: "https://rschooltoday.com/",
+    link: "https://web.archive.org/web/20240415025647/https://rschooltoday.com/",
   },
   {
     title: "Facilities Scheduler (2014 - 2025)",
@@ -69,7 +69,7 @@ const projects = [
     title: "Davao City Brgy Directory (2013)",
     description: "A portal of websites from different barangays of the Davao City, Philippines using PHP with Codeigniter.",
     image: "/placeholder.svg?height=200&width=300",
-    link: "https://github.com/ozyhale/davao-city-brgy-directory",
+    link: "https://web.archive.org/web/20130904003620/http://dvobrgy.usep.edu.ph/",
   },
   {
     title: "MVC Project (2012)",
